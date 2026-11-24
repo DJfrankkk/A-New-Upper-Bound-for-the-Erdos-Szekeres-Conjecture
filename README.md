@@ -12,4 +12,4 @@ $$
 ES(n) \leqslant 2^{n+O(n^{1/3})}.
 $$
 
-This repository contains the [Lean 4 formalization](ESVerify/) accompanying the [paper](A%20New%20Upper%20Bound%20for%20the%20Erd%C5%91s%E2%80%93Szekeres%20Conjecture.pdf). The paper was written by Yifan Hu, Guokuan Shao, and Guozhen Shen.
+This repository contains the [Lean 4 formalization](ESVerify/) accompanying the [paper](A%20New%20Upper%20Bound%20for%20the%20Erd%C5%91s%E2%80%93Szekeres%20Conjecture.pdf). The authors of this paper are Yifan Hu, Guokuan Shao, and Guozhen Shen.
